@@ -1,0 +1,2 @@
+rootProject.name = "Retrofit Kotlin Result Calladapter"
+include ':calladapter'
