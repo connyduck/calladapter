@@ -24,7 +24,7 @@ afterEvaluate {
             create<MavenPublication>("maven") {
                 groupId = "at.connyduck"
                 artifactId = "kotlin-result-calladapter"
-                version = "1.0.0"
+                version = "1.0.1"
 
                 from(components["java"])
                 artifact(sourcesJar.get())
