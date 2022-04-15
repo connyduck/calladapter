@@ -15,7 +15,7 @@ repositories {
 Add Kotlin Result CallAdapter to your dependencies:
 
 ```
-implementation "at.connyduck:kotlin-result-calladapter:1.0.0"
+implementation "at.connyduck:kotlin-result-calladapter:1.0.1"
 ```
 
 Install the CallAdapterFactory:
