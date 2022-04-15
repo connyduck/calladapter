@@ -3,10 +3,10 @@ buildscript {
         gradlePluginPortal()
     }
     dependencies {
-        classpath(kotlin("gradle-plugin", version = "1.6.10"))
+        classpath(kotlin("gradle-plugin", version = "1.6.20"))
         classpath("org.jlleitschuh.gradle:ktlint-gradle:10.2.1")
         classpath("io.github.gradle-nexus:publish-plugin:1.1.0")
-        classpath("org.jetbrains.dokka:dokka-gradle-plugin:1.6.10")
+        classpath("org.jetbrains.dokka:dokka-gradle-plugin:1.6.20")
     }
 }
 
